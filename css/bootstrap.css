@@ -228,7 +228,9 @@ th {
   img {
     max-width: 100% !important;
   }
-  p,
+  p {
+    font-size: 16px;
+}
   h2,
   h3 {
     orphans: 3;
